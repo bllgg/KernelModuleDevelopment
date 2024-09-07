@@ -1,1 +1,0 @@
-cmd_/home/debian/Projects/Kernel_Modules/HelloWorld/hello.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/debian/Projects/Kernel_Modules/HelloWorld/hello.ko /home/debian/Projects/Kernel_Modules/HelloWorld/hello.o /home/debian/Projects/Kernel_Modules/HelloWorld/hello.mod.o;  true

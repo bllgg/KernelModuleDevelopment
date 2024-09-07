@@ -1,1 +1,0 @@
-cmd_/home/debian/Projects/Kernel_Modules/HelloWorld/modules.order := {   echo /home/debian/Projects/Kernel_Modules/HelloWorld/hello.ko; :; } > /home/debian/Projects/Kernel_Modules/HelloWorld/modules.order
